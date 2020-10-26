@@ -1,0 +1,16 @@
+Package: Problem2
+Title: Problem2 Package
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Scott",
+           family = "Silvey",
+           role = c("aut", "cre"),
+           email = "silveys@vcu.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Contains functions related to the Pythagorean Theorem and the trimmed mean.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.0
